@@ -8,7 +8,7 @@ The repository contains SQL and PL/pgSQL source files for the assignments.
 
 | Folder                         | Assignment                                    | Topics covered                                                              |
 | ------------------------------ | --------------------------------------------- | --------------------------------------------------------------------------- |
-| `01_Create_Tables`             | Assignment 1 — Create Tables                  | Table creation, table structure, altering tables and inserting records      |
+| `01_Table_Creation_and_Alteration`             | Assignment 1 — Create Tables                  | Table creation, table structure, altering tables and inserting records      |
 | `02_Simple_SQL`                | Assignment 2 — Simple SQL                     | Basic SELECT queries, filtering, sorting and joins                          |
 | `03_Operators_Comparison_Like` | Assignment 3 — Operators, Comparison and LIKE | SQL operators, comparison conditions and pattern matching                   |
 | `04_Single_Row_Functions`      | Assignment 4 — Single Row Functions           | String, numeric, date and conversion functions                              |
