@@ -1,0 +1,39 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Database backups and exports
+*.dump
+*.backup
+*.bak
+*.sql.gz
+
+# PostgreSQL local data and configuration
+/pgdata/
+/postgres-data/
+
+# Temporary files
+*.tmp
+*.temp
+*.old
+
+# Archive files
+*.zip
+*.rar
+*.7z
